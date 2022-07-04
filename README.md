@@ -8,4 +8,4 @@ induk project ada di <b>main.dart</b>
 - Pada tahap ini sudah memunculkan ShowDialog sebagai alert untuk Login
 
 
-#Semoga_bermnanfaat
+#Semoga_bermanfaat
