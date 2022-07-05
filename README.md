@@ -12,5 +12,4 @@ induk project ada di <b>main.dart</b>
 - Pada tahap ini sudah sampai Push dan PushReplacement
 - Pada tahap ini sudah memunculkan ShowDialog sebagai alert untuk Login
 
-
 #Semoga_bermanfaat
