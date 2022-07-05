@@ -5,8 +5,8 @@ induk project ada di <b>main.dart</b>
 
 ## Flutter Command
 
-<code>flutter run</code>   untuk menjalankan flutter project, nnti akan muncul pilihan device <br>
-<code>flutter run -d edge</code>   untuk menjalankan flutter project ke device [edge]. Untuk ke device lain, ganti dengan nama devicenya
+`flutter run`   untuk menjalankan flutter project, nnti akan muncul pilihan device <br>
+`flutter run -d edge`   untuk menjalankan flutter project ke device [edge]. Untuk ke device lain, ganti dengan nama devicenya
 
 ## Realease note
 ### 04/07/2022
